@@ -130,6 +130,11 @@
     .content .row-list{
         padding:0;
     }
+    .row-list-legend-box{
+        display: block;
+        width: 100%;
+        text-align: left;
+    }
     .row-list-legend{
         width: 100%;
         padding:10px 0;
