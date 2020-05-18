@@ -132,13 +132,14 @@
     }
     .row-list-legend{
         width: 100%;
-        padding:0;
+        padding:10px 0;
+        text-align: center;
     }
     .row-list-legend li{
         margin-bottom: 10px;
     }
     .row-list-legend-text{
-        width: 60%;
+        /* width: 60%; */
     }
     .box-float{
         display: none;
