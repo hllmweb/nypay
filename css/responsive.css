@@ -60,6 +60,7 @@
         top:0;
         left:0;
         z-index:10;
+        border-radius:12px;
     }
     .open-menu-activo{
         background-color: #0e6481;
